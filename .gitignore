@@ -1,3 +1,24 @@
 
 .DS_Store
 PassChain/target
+*.xml
+PassChain/.idea/libraries/Maven__org_openjfx_javafx_base_mac_aarch64_18_0_1.xml
+*.xml
+PassChain/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_aarch64_18_0_1.xml
+PassChain/0c10508e-31f3-4ace-a51b-f6278e438b16-tcp1270011883/.lck
+PassChain/0d3ead26-8860-4fc5-91bb-f3c77705921d-tcp1270011883/.lck
+PassChain/334c6d12-2ea0-45d4-a944-6440eeec99cd-tcp1270011883/.lck
+PassChain/4218c9ae-9092-44c6-a7c9-26fba4e769c5-tcp1270011883/.lck
+PassChain/4c5308ca-9a42-4d9a-a7b3-3ad257736dd4-tcp1270011883/.lck
+PassChain/5f5d824d-1960-43df-a895-870c9c9317ab-tcp1270011883/.lck
+PassChain/ae9a4190-37b1-49b2-ab53-ded559ba2ec5-tcp1270011883/.lck
+PassChain/f3216fff-61b5-4d23-9c47-d3d4de61fda1-tcp1270011883/.lck
+PassChain/out/artifacts/PassChain_jar/PassChain.jar
+PassChain/.idea/libraries/Maven__org_openjfx_javafx_base_mac_aarch64_18_0_1.xml
+PassChain/PassChain.iml
+PassChain/PassChain.iml
+PassChain/src/main/resources/META-INF/MANIFEST.MF
+PassChain/PassChain.iml
+PassChain/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_aarch64_18_0_1.xml
+PassChain/PassChain.iml
+PassChain/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_aarch64_18_0_1.xml

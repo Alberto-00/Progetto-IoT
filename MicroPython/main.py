@@ -39,8 +39,8 @@ row_pins = [Pin(pin_name, mode=Pin.OUT) for pin_name in rows]
 # set pins for cols as inputs
 col_pins = [Pin(pin_name, mode=Pin.IN, pull=Pin.PULL_DOWN) for pin_name in cols]
 
-# Buzzer setup
-buzzer = PWM(Pin(19), freq=440, duty=512)
+# Buzzer setup, it turn on the buzzer, on the 2200hz. In order to use mySong, you don't neet to use. It's here only for testing purpose.
+#buzzer = PWM(Pin(18), freq=2200, duty=512) #use only to check if the buzzer works
 
 # message of MQTT
 last_message = b''
